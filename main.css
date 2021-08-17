@@ -1,0 +1,32 @@
+body {
+    font: 20px;
+}
+
+.navbar {
+    background-color: #DDDEDA;
+}
+
+.sobre {
+    background-color: #1a1c22;
+    color: #DDDEDA;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.aliado {
+    background-color: #1B233B;
+    color: #DDDEDA;
+}
+
+.personagens {
+    background-color: #20293f;
+    color: #DDDEDA;
+}
+
+.bg-footer {
+    background-color: #88939D;
+    color: #DDDEDA
+}
